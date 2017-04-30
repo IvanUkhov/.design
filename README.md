@@ -1,6 +1,6 @@
 # .design
 
-The repository contains various design files. Best enjoyed responsibly.
+The repository contains various design-related files. Best enjoyed responsibly.
 
 ## Installation
 
