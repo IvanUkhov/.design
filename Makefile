@@ -1,7 +1,7 @@
-illustrator := ${HOME}/Library/Application Support/Adobe/Adobe Illustrator 21/en_US
+illustrator := ${HOME}/Library/Application Support/Adobe/Adobe Illustrator 22/en_US
 illustrator_names := $(patsubst Illustrator/%/,%,$(dir $(wildcard Illustrator/*/)))
 
-photoshop := ${HOME}/Library/Application Support/Adobe/Adobe Photoshop CC 2017/Presets
+photoshop := ${HOME}/Library/Application Support/Adobe/Adobe Photoshop CC 2018/Presets
 photoshop_names := $(patsubst Photoshop/%/,%,$(dir $(wildcard Photoshop/*/)))
 
 all:
